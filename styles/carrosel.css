@@ -50,6 +50,10 @@
     font-weight: 700;
 }
 
+.descricao__titulo__adorno{
+    padding-bottom: 0.5em;
+}
+
 .descricao__titulo__livro{
     color: var(--azul);
     font-weight: 700;
@@ -63,6 +67,7 @@
 
 .descricao__texto{
     font-size: 14px;
+    padding-right: 0.5em;
 }
 
 .botoes__ancora{
