@@ -1,0 +1,9 @@
+.hr{
+    margin: 0;
+    background-color: var(--branco);
+}
+
+.rodape{
+    padding: 1em;
+    background-color: var(--branco);
+}
